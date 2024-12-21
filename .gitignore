@@ -1,0 +1,28 @@
+# Игнорируем папки и файлы, указанные вами
+C:/Users/Mikl/zaryadye_bot/plant_images/
+C:/Users/Mikl/zaryadye_bot/plant_images.zip
+
+# Игнорируем папки для виртуальных окружений
+venv/
+.env/
+.env.local/
+.env.*.local/
+
+# Игнорируем байт-код Python
+__pycache__/
+*.py[cod]
+
+# Игнорируем файлы и папки, создаваемые IDE
+.idea/
+.vscode/
+*.egg-info/
+*.egg
+
+# Игнорируем системные файлы
+.DS_Store
+Thumbs.db
+
+# Игнорируем временные файлы
+*.log
+*.tmp
+*.temp
